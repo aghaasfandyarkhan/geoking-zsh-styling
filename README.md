@@ -1,5 +1,12 @@
 # geoking-zsh-styling
-This zip file contains all of my styling and theming file for my terminal. It contains the zsh &amp; oh my zsh config files and directory along with powerlevel10k theme for terminal too. It's just a backup files for me. But for quick styling anyone can clone this repo and can edit it as they want. It's  FOSS :)
-Setup:
-Simply extract this file on your user HOME directory and change your shell to zsh. sudo chsh -s /usr/bin/zsh $USER
-and you are good to go!
+
+This repository contains all of my styling and theming files for my terminal. It includes the Zsh & Oh My Zsh configuration files and directories, along with the Powerlevel10k theme for the terminal. 
+
+This serves as a backup for my personal setup, but anyone looking for quick terminal styling can clone this repository and customize it as they want. It's FOSS (Free and Open Source Software) :)
+
+## Setup
+
+Simply extract this file into your user **HOME** directory and change your default shell to Zsh:
+
+```bash
+sudo chsh -s /usr/bin/zsh $USER
