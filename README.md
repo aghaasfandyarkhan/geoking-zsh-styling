@@ -7,6 +7,7 @@ Install oh my zsh repo for proper functionality
 
 Link: https://ohmyz.sh/
 
+Install this repo before extracting the file.
 ## Setup
 
 Simply extract this file into your user **HOME** directory and change your default shell to Zsh:
