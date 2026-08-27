@@ -1,8 +1,11 @@
 # geoking-zsh-styling
 
-This repository contains all of my styling and theming files for my terminal. It includes the Zsh & Oh My Zsh configuration files and directories, along with the Powerlevel10k theme for the terminal. 
+This repository contains all of my styling and theming files for my terminal. It includes the Zsh & Oh My Zsh configuration files and directories, along with the Powerlevel10k theme for the terminal. This serves as a backup for my personal setup, but anyone looking for quick terminal styling can clone this repository and customize it as they want.
 
-This serves as a backup for my personal setup, but anyone looking for quick terminal styling can clone this repository and customize it as they want.
+# Prerequisites
+Install oh my zsh repo for proper functionality
+
+Link: https://ohmyz.sh/
 
 ## Setup
 
